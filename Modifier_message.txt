@@ -1,3 +1,5 @@
 Modifier le message du dernier commit
 
-git commit - -amend -m « nouveau message »
+git commit --amend -m « nouveau message »
+
+Cela peut s'avérer utile.
