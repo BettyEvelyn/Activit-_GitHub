@@ -1,0 +1,8 @@
+Se positionner sur un commit donné
+
+git log
+copier SHA du commit donné
+git checkout coller SHA
+on se trouve maintenant à l’époque de ce commit (on peut vérifier avec git log)
+pour afficher le contenu: cat fichier
+git checkout master pour revenir au niveau actuel
